@@ -18,5 +18,15 @@ Não quero que seja muito geral
 Não quero um título grande
 títulos                                                        |
 
-| conteúdo | --  |
+| conteúdo | 
+    Você é um roteirista de podcast. Crie um roteiro de podcast que fale sobre a escala menor melódica e suas aplicações. Use termos simples e fáceis de entender.
+
+    [INTRODUÇÃO]
+    [CONCEITO_1]
+    [CONCEITO_2]
+    [FINALIZAÇÃO]
+
+    - O podcast não deve ultrapassar 5 minutos de duração
+    - substitua introdução por uma introdução do canal do Pedro Passos
+ |
 
