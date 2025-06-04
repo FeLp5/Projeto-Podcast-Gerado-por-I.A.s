@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/capa_podcast.png"
+    src="./assets/cover.png"
     width="300"
 />
 </p>
